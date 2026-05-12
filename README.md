@@ -37,8 +37,8 @@ API REST para upload e gerenciamento de posts com imagens e vídeos, utilizando 
 ### 1. Clone o repositório
 
 ```bash
-git clone <seu-repositorio>
-cd streamlit
+git clone https://github.com/Wendersonjose/mediahub-api.git
+cd mediahub-api
 ```
 
 ### 2. Configure as variáveis de ambiente
@@ -233,4 +233,13 @@ Este projeto é para fins educacionais.
 
 ## 👨‍💻 Autor
 
+**Wenderson Jose**
+
 Desenvolvido como parte da disciplina **Tópicos Especiais em S.I** - Faculdade ADS
+
+### 📧 Contato
+
+- **Email**: [wenderson.teles@icloud.com](mailto:wenderson.teles@icloud.com)
+- **GitHub**: [github.com/Wendersonjose](https://github.com/Wendersonjose)
+- **LinkedIn**: [linkedin.com/in/wenderson-jose](https://www.linkedin.com/in/wenderson-jose)
+- **Telefone**: +55 (34) 99158-8061
